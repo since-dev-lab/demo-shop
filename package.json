@@ -1,5 +1,5 @@
 {
-  "name": "since-demo-shop",
+  "name": "demo-shop",
   "version": "1.0.0",
   "private": true,
   "description": "Since.dev demo repository: a small shop API that writes product copy with two AI providers",
